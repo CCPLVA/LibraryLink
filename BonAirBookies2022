@@ -1,32 +1,32 @@
 "label": "CCPL Bon Air Bookies Book Discussion",
 "description": "Book Discussion Titles for Chesterfield County Public Library's Bon Air Bookies 2022",
 	"list": [{
-	"label": "July | Who Is Maud Dixon? by Alexandra Andrews",
+	"label": "Who Is Maud Dixon? by Alexandra Andrews",
 	"isbns":[
 		"9780316500319"
 		]
 		},
-		{label: "August | Anxious People by Fredrik Backman",
+		{label: "Anxious People by Fredrik Backman",
 	"isbns":[
 		"9781501160837"
 		]
 		},
-		{label: "September | "The Henna Artist by Alka Joshi",
+		{label: "The Henna Artist by Alka Joshi",
 	"isbns":[
 		"9780778309451"
 		]
 		},
-		{label: "October | The Book of Lost Names by Kristin Harmel",
+		{label: "The Book of Lost Names by Kristin Harmel",
 	"isbns" :[
 		"9781982131890"
 		]
 		},
-		{label: "November |The Long Petal of the Sea by Isabel Allende",
+		{label: "The Long Petal of the Sea by Isabel Allende",
  	"isbns" :[
     		"9781984820150"
 		]
 		},
-		{label: "December | This Tender Land by William Kent Krueger",
+		{label: "This Tender Land by William Kent Krueger",
 	"isbns" :[
 		"9781476749297"
 		]
