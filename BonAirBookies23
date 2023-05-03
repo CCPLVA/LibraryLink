@@ -2,13 +2,13 @@
 	"label": "Bon Air Bookies",
 	"description": "Book Discussions Titles",
 	"list": [{
-			"label": "Hamnet: A Novel of the Plague by Maggie O'Farrell",
+			"label": "JULY - Hamnet: A Novel of the Plague",
 			"isbns": [
 				"9780525657606"
 			]
 		},
 		{
-			"label": "Good Company by Cynthia D'Aprix Sweeney",
+			"label": "AUGUST - Good Company",
 			"isbns": [
 				"9780062876003"
 			]
