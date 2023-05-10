@@ -1,29 +1,18 @@
 {
 	"label": "Bon Air Bookies",
-	"description": "Book Discussions",
+	"description": "Bon Air Bookies",
 	"list": [{
-			"label": "July - Hamnet",
-			"isbns": "9780525657606"
-		},
-		{
-			"label": "August - Good Company",
-			"isbns": "9780062876003"
-		},
-		{
-			"label": "September - Harlem Shuffle",
-			"isbns": "9780385545136"
-		},
-		{
-			"label": "October - The Personal Librarian",
-			"isbns": "9780593101537"
-		},
-		{
-			"label": "November - There There",
-			"isbns": "9780525520375"
-		},
-		{
-			"label": "December - The Thursday Murder Club",
-			"isbns": "9781984880963"
-		}
-	]
+		"label":"July - Hamnet",
+		"isbns":["9780525657606"]},
+		{"label":"August - Good Company",
+		"isbns":["9780062876003"]},
+		{"label":"September - Harlem Shuffle",
+		"isbns":["9780385545136"]},
+		{"label":"October - The Personal Librarian",
+		"isbns":["9780593101537"]},
+		{"label":"November - There There",
+		"isbns":["9780525520375"]},
+		{"label":"December - The Thursday Murder Club",
+		"isbns":["9781984880963"]}
+]
 }
