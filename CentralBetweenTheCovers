@@ -1,0 +1,29 @@
+{
+"label":"Central - Between the Covers - ",
+	"description": "Book Discussion List",
+	"list":[{
+		"label":"July | The Murder of Roger Ackroyd",
+		"isbns":["9780062073563"]
+		},
+			{
+		"label":"August | The Thursday Murder Club",
+		"isbns":["9781984880963"]
+		},
+		{
+		"label":"September | The Song of Achilles",
+		"isbns":["9780062060617"]
+		},
+		{
+		"label":"October | Hamnet: A Novel of the Plague",
+		"isbns":["9780525657606"]
+		},
+		{
+		"label":"November | Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+		"isbns":["9780385534246"]
+		},
+		{
+		"label":"December | In the Midst of Winter",
+		"isbns":["9781501178139"]
+		}
+		]
+}
