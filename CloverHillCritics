@@ -1,0 +1,22 @@
+{"label":"Clover Hill Critics",
+	"description":"Book Discussion List",
+	"list":[
+				{"label":"July | American Royals","isbns":["9781984830173"]
+				},
+				{"label":"August | The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+				"isbns":["9781982115852"]
+				},
+				{"label":"September | The Tattooist of Auschwitz ",
+				"isbns":["9780062870674"]
+				},
+				{"label":"October | The Death of Mrs. Westaway",
+				"isbns":["9781508251705"]
+				},
+				{"label":"November | The Sound of Gravel",
+				"isbns":["9781250077691"]
+				},
+				{"label":"December | The Lager Queen of Minnesota",
+				"isbns":["9780399563058"]
+				}
+			]
+}
