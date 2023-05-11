@@ -1,0 +1,24 @@
+{
+	"label":"LaPrade Bookthink",
+	"description":"LaPrade Bookthink",
+	"list":[
+		{"label":"July | The Midnight Library",
+		"isbns":["9780525559474"]
+		},
+		{"label":"August | The Bookshop of Second Chances",
+		"isbns":["9780593355657"]
+		},
+		{"label":"September | The Curious Incident of the Dog in the Night-time",
+		"isbns":["9780385512107"]
+		},
+		{"label":"October | Cloud Cuckoo Land",
+		"isbns":["9781982168438"]
+		},
+		{"label":"November | Eleanor Oliphant Is Completely Fine",
+		"isbns":["9780735220683"]
+		},
+		{"label":"December | The Overdue Life of Amy Byler",
+		"isbns":["9781542042963"]
+		}
+	]
+}
