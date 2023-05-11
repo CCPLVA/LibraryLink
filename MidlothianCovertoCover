@@ -1,0 +1,24 @@
+{
+	"label":"Midlothian Cover to Cover",
+	"description":"Midlothian Cover to Cover",
+	"list":[
+		{"label":"July | The Magnolia Palace",
+		"isbns":["9780593184011"]
+		},
+		{"label":"August | One Summer: America, 1927",
+		"isbns":["9780767919401"]
+		},
+		{"label":"September | The Violin Conspiracy",
+		"isbns":["9780593315415"]
+		},
+		{"label":"October | The Betrayal of Anne Frank: A Cold Case Investigation",
+		"isbns":["9780062892355"]
+		},
+		{"label":"November | The Girl with the Louding Voice",
+		"isbns":["9781250087331"]
+		},
+		{"label":"December | The Maid",
+		"isbns":["9780593356159"]
+		}
+		]
+}
