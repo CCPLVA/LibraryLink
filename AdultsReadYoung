@@ -1,0 +1,29 @@
+{
+	"label": "Adults Read Young: A YA Book Club for Adults (LaPrade)",
+	"description": "Book Discussion List",
+	"list": [{
+			"label": "July | Cinder",
+			"isbns": ["9780312641894"]
+		},
+		{
+			"label": "August | Dear Martin",
+			"isbns": ["9781101939499"]
+		},
+		{
+			"label": "September | The Grace Year",
+			"isbns": ["9781250145444"]
+		},
+		{
+			"label": "October | Children of Blood and Bone",
+			"isbns": ["9781250170972"]
+		},
+		{
+			"label": "November | Aristotle and Dante Discover the Secrets of the Universe",
+			"isbns": ["9781442408920"]
+		},
+		{
+			"label": "December | Firekeeper's Daughter",
+			"isbns": ["9781250766564"]
+		}
+	]
+}
