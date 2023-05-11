@@ -1,0 +1,89 @@
+{
+	"label": "Elementary School Battle of the Books for Chesterfield County Public Schools 2023-2024",
+	"description": "Battle of the Books List 23-24",
+	"list": [{
+			"label": "The Somewhat True Adventures of Sammy Shine by Henry Cole",
+			"isbns": ["9781561458660"]
+		},
+		{
+			"label": "Wildoak by C.C. Harrington",
+			"isbns": ["9781338803860"]
+		},
+		{
+			"label": "Mountain Chef: How One Man Lost His Groceries, Changed His Plans, and Helped Cook Up the National Park Service by Annette Bay Pimentel",
+			"isbns": ["9781580897112"]
+		},
+		{
+			"label": "Becoming Muhammad Ali by James Patterson and Kwame Alexander",
+			"isbns": ["9780316498166"]
+		},
+		{
+			"label": "Matilda by Roald Dahl",
+			"isbns": ["9780142410370"]
+		},
+		{
+			"label": "Amari and the Night Brothers by B.B. Alston",
+			"isbns": ["9780062975164"]
+		},
+		{
+			"label": "Swim Team by Johnnie Christmas",
+			"isbns": ["9780063056770"]
+		},
+		{
+			"label": "I Survived: The Attacks of September 11, 2001 by Lauren Tarshis",
+			"isbns": ["9781338680492"]
+		},
+		{
+			"label": "Rescue by Jennifer A. Nielsen ",
+			"isbns": ["9781338620993"]
+		},
+		{
+			"label": "Susanna's Midnight Ride: The Girl Who Won The Revolutionary War by Libby Carty McNamee",
+			"isbns": ["9781732220201"]
+		},
+		{
+			"label": "The Elephant’s Girl by Celesta Rimington",
+			"isbns": ["9780593121221"]
+		},
+		{
+			"label": "Don’t Check out this Book by Kate Klise",
+			"isbns": ["9781616209766"]
+		},
+		{
+			"label": "The Best of Iggy by Annie Barrows",
+			"isbns": ["9781984813305"]
+		},
+		{
+			"label": "Who Could that be at this Hour? by Lemony Snicket",
+			"isbns": ["9780316123082"]
+		},
+		{
+			"label": "She Made a Monster: How Mary Shelley Created Frankenstein by Lynn Fulton",
+			"isbns": ["9780525579601"]
+		},
+		{
+			"label": "Bully by Patricia Polacco",
+			"isbns": ["9780399257049"]
+		},
+		{
+			"label": "Odder by Katherine Applegate",
+			"isbns": ["9781250147424"]
+		},
+		{
+			"label": "Before the Ever After by Jacqueline Woodson",
+			"isbns": ["9780399545436"]
+		},
+		{
+			"label": "J.D. and the Great Barber Battle by J. Dillard",
+			"isbns": ["9780593111529"]
+		},
+		{
+			"label": "Maya and the Robot by Eve L. Ewing",
+			"isbns": ["9781984814630"]
+		},
+		{
+			"label": "Becoming Muhammad Ali by James Patterson and Kwame Alexander",
+			"isbns": ["9780316498166"]
+		}
+	]
+}
