@@ -1,0 +1,29 @@
+{
+	"label": "Chester Choices",
+	"description": "Book Disussion List",
+	"list": [{
+			"label": "July | A Flicker in the Dark",
+			"isbns": ["9781250803825"]
+		},
+		{
+			"label": "August | Summer of '69 ",
+			"isbns": ["9780316420013"]
+		},
+		{
+			"label": "September | The Expats",
+			"isbns": ["9780307956354"]
+		},
+		{
+			"label": "October | Malibu Rising ",
+			"isbns": ["9781524798659"]
+		},
+		{
+			"label": "November | This Tender Land ",
+			"isbns": ["9781476749297"]
+		},
+		{
+			"label": "December | Dear Santa",
+			"isbns": ["9781984818812"]
+		}
+	]
+}
