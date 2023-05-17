@@ -1,11 +1,16 @@
 {
 "label":"Central - Between the Covers - ",
 	"description": "Book Discussion List",
-	"list":[{
+	"list":[
+		{
+		"label":"June |The Light Between Oceans",
+		"isbns":["9781451681734"]
+		}
+		{
 		"label":"July | The Murder of Roger Ackroyd",
 		"isbns":["9780062073563"]
 		},
-			{
+		{
 		"label":"August | The Thursday Murder Club",
 		"isbns":["9781984880963"]
 		},
