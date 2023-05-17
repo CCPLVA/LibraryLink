@@ -1,7 +1,12 @@
 {
 	"label": "Chester Choices",
 	"description": "Book Disussion List",
-	"list": [{
+	"list": [
+		{
+			"label":"June | Rock Paper Scissors",
+			"isbns":["9781250266101"]
+		},
+		{
 			"label": "July | A Flicker in the Dark",
 			"isbns": ["9781250803825"]
 		},
