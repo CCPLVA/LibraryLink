@@ -1,6 +1,9 @@
 {"label":"Clover Hill Critics",
 	"description":"Book Discussion List",
 	"list":[
+				{"label":"June | The Killings at Kingficher Hill",
+				"isbns":["9780062792372"]
+				},
 				{"label":"July | American Royals","isbns":["9781984830173"]
 				},
 				{"label":"August | The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
