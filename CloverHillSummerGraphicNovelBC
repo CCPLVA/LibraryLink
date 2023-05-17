@@ -2,6 +2,9 @@
 	"label":"Summer Graphic Novel Book Club (Clover Hill)",
 	"description":"Book Discussion List",
 	"list":[
+		{"label":"June | Pawcasso",
+		"isbns":["9781250774484"]
+		},
 		{"label":"July | The Aquanaut",
 		"isbns":["9780545497619"]
 		},
