@@ -1,7 +1,12 @@
 {
 	"label": "Virtually Virginia Book Club (Enon)",
 	"description": "Book Discussion List",
-	"list": [{
+	"list": [
+		{
+			"label": "June | The Disagreement",
+			"isbns":["9781416550662"]
+		},	
+		{
 			"label": "July | The Underground Railroad",
 			"isbns": ["9780385542364"]
 		},
