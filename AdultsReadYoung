@@ -1,10 +1,7 @@
 {
 	"label": "Adults Read Young: A YA Book Club for Adults (LaPrade)",
 	"description": "Book Discussion List",
-	"list": [{
-			"label":"June | One of Us is Lying",
-			"isbns":["9781524714680"]
-		},
+	"list": [
 		{
 			"label": "July | Cinder",
 			"isbns": ["9780312641894"]
