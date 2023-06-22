@@ -1,7 +1,7 @@
 {
 	"label": "Bon Air Bookies",
 	"description": "Bon Air Bookies",
-	"list": [{
+	"list": [
 		{"label":"July | Hamnet",
 		"isbns":["9780525657606"]},
 		{"label":"August | Good Company",
