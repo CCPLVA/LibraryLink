@@ -2,9 +2,6 @@
 	"label":"Midlothian Cover to Cover",
 	"description":"Midlothian Cover to Cover",
 	"list":[
-		{"label":"June | The Thursday Murder Club",
-		"isbns":["9781984880963"]
-		},
 		{"label":"July | The Magnolia Palace",
 		"isbns":["9780593184011"]
 		},
