@@ -2,9 +2,6 @@
 	"label":"Summer Graphic Novel Book Club (Clover Hill)",
 	"description":"Book Discussion List",
 	"list":[
-		{"label":"July | The Aquanaut",
-		"isbns":["9780545497619"]
-		},
 		{"label":"August | Spy School: The Graphic Novel",
 		"isbns":["9781534455436"]
 		}
