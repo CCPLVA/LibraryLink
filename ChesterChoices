@@ -3,10 +3,6 @@
 	"description": "Book Disussion List",
 	"list": [
 		{
-			"label": "July | A Flicker in the Dark",
-			"isbns": ["9781250803825"]
-		},
-		{
 			"label": "August | Summer of '69 ",
 			"isbns": ["9780316420013"]
 		},
