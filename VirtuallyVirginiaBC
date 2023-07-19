@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "July | The Underground Railroad",
-			"isbns": ["9780385542364"]
-		},
-		{
 			"label": "August | Chesapeake Requiem: A Year with the Watermen of Vanishing Tangier Island",
 			"isbns": ["9780062661395"]
 		},
