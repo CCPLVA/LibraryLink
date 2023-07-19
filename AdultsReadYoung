@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "July | Cinder",
-			"isbns": ["9780312641894"]
-		},
-		{
 			"label": "August | Dear Martin",
 			"isbns": ["9781101939499"]
 		},
