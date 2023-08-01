@@ -2,9 +2,6 @@
 	"label":"Chester | The Happy Bookers ",
 	"description":"Book Discussion List",
 	"list":[
-			{"label":"July | My Grandmother Asked Me to Tell You She's Sorry",
-			"isbns":["9781501115073"]
-			},
 			{"label":"October | A Gentleman in Moscow","isbns":["9780670026197"]
 			}
 			]
