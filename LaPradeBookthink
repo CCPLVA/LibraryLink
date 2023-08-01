@@ -3,10 +3,6 @@
 "description":"LaPrade Bookthink",
 "list":[
 	{
-	"label":"July | The Midnight Library",
-	"isbns":["9780525559474"]
-	},
-	{
 	"label":"August | The Bookshop of Second Chances",
 	"isbns":["9780593355657"]
 	},
