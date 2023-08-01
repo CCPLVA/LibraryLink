@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list":[
 		{
-		"label":"July | The Murder of Roger Ackroyd",
-		"isbns":["9780062073563"]
-		},
-		{
 		"label":"August | The Thursday Murder Club",
 		"isbns":["9781984880963"]
 		},
