@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "August | Dear Martin",
-			"isbns": ["9781101939499"]
-		},
-		{
 			"label": "September | The Grace Year",
 			"isbns": ["9781250145444"]
 		},
