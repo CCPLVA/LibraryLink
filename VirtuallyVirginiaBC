@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "August | Chesapeake Requiem: A Year with the Watermen of Vanishing Tangier Island",
-			"isbns": ["9780062661395"]
-		},
-		{
 			"label": "September | Yellow Wife",
 			"isbns": ["9781982149109"]
 		},
