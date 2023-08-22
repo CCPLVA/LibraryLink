@@ -3,10 +3,6 @@
 "description":"LaPrade Bookthink",
 "list":[
 	{
-	"label":"August | The Bookshop of Second Chances",
-	"isbns":["9780593355657"]
-	},
-	{
 	"label":"September | The Curious Incident of the Dog in the Night-time",
 	"isbns":["9780385512107"]
 	},
