@@ -3,10 +3,6 @@
 	"description": "Book Disussion List",
 	"list": [
 		{
-			"label": "August | Summer of '69 ",
-			"isbns": ["9780316420013"]
-		},
-		{
 			"label": "September | The Expats",
 			"isbns": ["9780307956354"]
 		},
