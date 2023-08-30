@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list":[
 		{
-		"label":"August | The Thursday Murder Club",
-		"isbns":["9781984880963"]
-		},
-		{
 		"label":"September | The Song of Achilles",
 		"isbns":["9780062060617"]
 		},
