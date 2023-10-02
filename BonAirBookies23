@@ -1,10 +1,7 @@
 {
 	"label": "Bon Air Bookies",
 	"description": "Bon Air Bookies",
-	"list": [{
-			"label": "September | Harlem Shuffle",
-			"isbns": ["9780385545136"]
-		},
+	"list": [
 		{
 			"label": "October | The Personal Librarian",
 			"isbns": ["9780593101537"]
