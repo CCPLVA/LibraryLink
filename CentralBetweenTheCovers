@@ -13,6 +13,24 @@
 		{
 		"label":"December | In the Midst of Winter",
 		"isbns":["9781501178139"]
-		}
+		},
+		{
+		"label":"January - The Guest List",
+		"isbns":["9780062868930"]},
+		{
+		"label":"February - The Immortal Life of Henrietta Lacks",
+		"isbns":["9781400052172"]},
+		{
+		"label":"March  - Klara and the Sun",
+		"isbns":["9780593318171"]},
+		{
+		"label":"April - Cloud Cuckoo Land",
+		"isbns":["9781982168438"]},
+		{
+		"label":"May - The Island of Sea Women",
+		"isbns":["9781501154850"]},
+		{
+		"label":"June  - Homegoing",
+		"isbns":["9781101947135"]}
 		]
 }
