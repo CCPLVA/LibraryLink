@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list":[
 		{
-		"label":"September | The Song of Achilles",
-		"isbns":["9780062060617"]
-		},
-		{
 		"label":"October | Hamnet: A Novel of the Plague",
 		"isbns":["9780525657606"]
 		},
