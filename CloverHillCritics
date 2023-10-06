@@ -1,9 +1,6 @@
 {"label":"Clover Hill Critics",
 	"description":"Book Discussion List",
 	"list":[
-				{"label":"September | The Tattooist of Auschwitz ",
-				"isbns":["9780062870674"]
-				},
 				{"label":"October | The Death of Mrs. Westaway",
 				"isbns":["9781508251705"]
 				},
@@ -12,6 +9,30 @@
 				},
 				{"label":"December | The Lager Queen of Minnesota",
 				"isbns":["9780399563058"]
+				},
+				{
+				"label":"January - The Sentence",
+				"isbns":["9780062671127"]
+				},
+				{
+				"label":"February - Firekeeper’s Daughter",
+				"isbns":["9781250766564"]
+				},
+				{
+				"label":"March - The Library Book",
+				"isbns":["9781476740188"]
+				},
+				{
+				"label":"April - Dear Edward",
+				"isbns":["9781984854780"]
+				},
+				{
+				"label":"May - A History of Wild Places",
+				"isbns":["9781982164805"]
+				},
+				{
+				"label":"June - The Paris Library",
+				"isbns":["9781982134198"]
 				}
-			]
+		]
 }
