@@ -2,9 +2,6 @@
 	"label":"Midlothian Cover to Cover",
 	"description":"Midlothian Cover to Cover",
 	"list":[
-		{"label":"September | The Violin Conspiracy",
-		"isbns":["9780593315415"]
-		},
 		{"label":"October | The Betrayal of Anne Frank: A Cold Case Investigation",
 		"isbns":["9780062892355"]
 		},
@@ -13,6 +10,30 @@
 		},
 		{"label":"December | The Maid",
 		"isbns":["9780593356159"]
+		},
+		{
+		"label":"January - The Searcher",
+		"isbns":["9780735224650"]
+		},
+		{
+		"label":"February - The Premonition: A Pandemic Story",
+		"isbns":["9780393881554"]
+		},
+		{	
+		"label":"March - The Magnificent Lives of Marjorie Post",
+		"isbns":["9780593355688"]
+		},
+		{
+		"label":"April - The Lost Apothecary",
+		"isbns":["9780778311010"]
+		},
+		{
+		"label":"May - The Devil’s Half Acre:  The Untold Story of How One Woman Liberated the South’s Most Notorious Slave Jail",
+		"isbns":["9781541675636"]
+		},
+		{
+		"label":"June - Lessons in Chemistry",
+		"isbns":["9780385547345"]
 		}
 		]
 }
