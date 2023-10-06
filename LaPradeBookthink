@@ -3,10 +3,6 @@
 "description":"LaPrade Bookthink",
 "list":[
 	{
-	"label":"September | The Curious Incident of the Dog in the Night-time",
-	"isbns":["9780385512107"]
-	},
-	{
 	"label":"October | Cloud Cuckoo Land",
 	"isbns":["9781982168438"]
 	},
@@ -15,6 +11,30 @@
 	},
 	{"label":"December | The Overdue Life of Amy Byler",
 	"isbns":["9781542042963"]
+	},
+	{
+	"label":"January - Remarkably Bright Creatures",
+	"isbns":["9780063204157"]
+	},
+	{
+	"label":"February - The Bromance Book Club",
+	"isbns":["9781984806093"]
+	},
+	{
+	"label":"March - Sea of Tranquility",
+	"isbns":["9780593321447"]
+	},
+	{
+	"label":"April - Lessons in Chemistry",
+	"isbns":["9780385547345"]
+	},
+	{
+	"label":"May - Under the Whispering Door",
+	"isbns":["9781250217349"]
+	},
+	{
+	"label":"June - The Measure",
+	"isbns":["9780063204201"]
 	}
 	]
 }
