@@ -3,10 +3,6 @@
 	"description": "Book Disussion List",
 	"list": [
 		{
-			"label": "September | The Expats",
-			"isbns": ["9780307956354"]
-		},
-		{
 			"label": "October | Malibu Rising ",
 			"isbns": ["9781524798659"]
 		},
@@ -17,6 +13,30 @@
 		{
 			"label": "December | Dear Santa",
 			"isbns": ["9781984818812"]
-		}
+		},
+		{
+			"label":"January - Lessons in Chemistry",
+			"isbns":["9780385547345"]
+			},
+		{
+			"label":"February - Anxious People",
+			"isbns":["9781501160837"]
+			},
+			{
+			"label":"March - Code Girls: The Untold Story of the American Women Code Breakers of World War II",
+			"isbns":["9780316352536"]
+			},
+			{
+			"label":"April - Wrong Place Wrong Time",
+			"isbns":["9780063252349"]
+			},
+			{
+			"label":"May - The Rose Code",
+			"isbns":["9780063059412"]
+			},
+			{
+			"label":"June - Educated: A Memoir",
+			"isbns":["9780399590504"]
+			}
 	]
 }
