@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "September | The Grace Year",
-			"isbns": ["9781250145444"]
-		},
-		{
 			"label": "October | Children of Blood and Bone",
 			"isbns": ["9781250170972"]
 		},
@@ -17,6 +13,30 @@
 		{
 			"label": "December | Firekeeper's Daughter",
 			"isbns": ["9781250766564"]
+		},
+		{
+		"label":"January - The Book Thief",
+		"isbns":["9780375831003"]
+		},
+		{
+		"label":"February - Long Way Down",
+		"isbns":["9781481428254"]
+		},
+		{
+		"label":"March - All My Rage",
+		"isbns":["9780593202340"]
+		},
+		{
+		"label":"April - Shadow and Bone",
+		"isbns":["9780805094596"]
+		},
+		{
+		"label":"May - The Inheritance Games",
+		"isbns":["9781368052405"]
+		},
+		{
+		"label":"June - They Both Die at the End",
+		"isbns":["9780062457790"]
 		}
-	]
+		]
 }
