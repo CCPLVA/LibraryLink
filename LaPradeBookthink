@@ -2,10 +2,6 @@
 "label":"LaPrade Bookthink",
 "description":"LaPrade Bookthink",
 "list":[
-	{
-	"label":"October | Cloud Cuckoo Land",
-	"isbns":["9781982168438"]
-	},
 	{"label":"November | Eleanor Oliphant Is Completely Fine",
 	"isbns":["9780735220683"]
 	},
