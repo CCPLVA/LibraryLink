@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list":[
 		{
-		"label":"October | Hamnet: A Novel of the Plague",
-		"isbns":["9780525657606"]
-		},
-		{
 		"label":"November | Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
 		"isbns":["9780385534246"]
 		},
