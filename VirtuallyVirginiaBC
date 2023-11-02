@@ -3,43 +3,39 @@
 	"description": "Book Discussion List",
 	"list": [
 		{
-			"label": "October | The Glass Castle",
-			"isbns": ["9780743247542"]
+		"label": "November | Ladies of Liberty: The Women Who Shaped Our Nation ",
+		"isbns": ["9780060782344"]
 		},
 		{
-			"label": "November | Ladies of Liberty: The Women Who Shaped Our Nation ",
-			"isbns": ["9780060782344"]
+		"label": "December | The Hemingses of Monticello: An American Family",
+		"isbns": ["9780393064773"]
 		},
 		{
-			"label": "December | The Hemingses of Monticello: An American Family",
-			"isbns": ["9780393064773"]
+		"label":"January - March",
+		"isbns":["9780143036661"]
 		},
 		{
-	"label":"January - March",
-	"isbns":["9780143036661"]
-	},
-	{
-	"label":"February - The Water Dancer",
-	"isbns":["9780399590610"]
-	},
-	{
-	"label":"March - A Walk in the Woods: Rediscovering America on the Appalachian Trail",
-	"isbns":["9780767902519"]
-	},
-	{"label":"April - Commonwealth",
-	"isbns":["9780062491794"]
-	},
-	{
-	"label":"May - Susanna’s Midnight Ride: The Girl Who Won the Revolutionary War",
-	"isbns":["9781732220201"]
-	},
-	{
-	"label":"May - Dolley Madison and the War of 1812: America’s First Lady",
-	"isbns":["9781732220249"]
-	},
-	{
-	"label":"June - Lie Down in Darkness",
-	"isbns":["9780679735977"]
+		"label":"February - The Water Dancer",
+		"isbns":["9780399590610"]
+		},
+		{
+		"label":"March - A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+		"isbns":["9780767902519"]
+		},
+		{"label":"April - Commonwealth",
+		"isbns":["9780062491794"]
+		},
+		{
+		"label":"May - Susanna’s Midnight Ride: The Girl Who Won the Revolutionary War",
+		"isbns":["9781732220201"]
+		},
+		{
+		"label":"May - Dolley Madison and the War of 1812: America’s First Lady",
+		"isbns":["9781732220249"]
+		},
+		{
+		"label":"June - Lie Down in Darkness",
+		"isbns":["9780679735977"]
+		}
+		]
 	}
-	]
-}
