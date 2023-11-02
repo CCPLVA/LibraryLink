@@ -3,10 +3,6 @@
 	"description": "Book Disussion List",
 	"list": [
 		{
-			"label": "October | Malibu Rising ",
-			"isbns": ["9781524798659"]
-		},
-		{
 			"label": "November | This Tender Land ",
 			"isbns": ["9781476749297"]
 		},
