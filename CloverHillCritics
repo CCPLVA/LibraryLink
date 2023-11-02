@@ -1,9 +1,6 @@
 {"label":"Clover Hill Critics",
 	"description":"Book Discussion List",
 	"list":[
-				{"label":"October | The Death of Mrs. Westaway",
-				"isbns":["9781508251705"]
-				},
 				{"label":"November | The Sound of Gravel",
 				"isbns":["9781250077691"]
 				},
