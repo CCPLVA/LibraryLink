@@ -3,10 +3,6 @@
 	"description": "Bon Air Bookies",
 	"list": [
 		{
-			"label": "October | The Personal Librarian",
-			"isbns": ["9780593101537"]
-		},
-		{
 			"label": "November | There There",
 			"isbns": ["9780525520375"]
 		},
