@@ -3,10 +3,6 @@
 	"description": "Book Discussion List",
 	"list":[
 		{
-		"label":"November | Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
-		"isbns":["9780385534246"]
-		},
-		{
 		"label":"December | In the Midst of Winter",
 		"isbns":["9781501178139"]
 		},
