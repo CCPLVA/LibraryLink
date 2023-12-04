@@ -3,10 +3,6 @@
 	"description": "Bon Air Bookies",
 	"list": [
 		{
-			"label": "November | There There",
-			"isbns": ["9780525520375"]
-		},
-		{
 			"label": "December | The Thursday Murder Club",
 			"isbns": ["9781984880963"]
 		},
