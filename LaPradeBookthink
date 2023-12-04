@@ -2,9 +2,6 @@
 "label":"LaPrade Bookthink",
 "description":"LaPrade Bookthink",
 "list":[
-	{"label":"November | Eleanor Oliphant Is Completely Fine",
-	"isbns":["9780735220683"]
-	},
 	{"label":"December | The Overdue Life of Amy Byler",
 	"isbns":["9781542042963"]
 	},
