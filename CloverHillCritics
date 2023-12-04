@@ -1,9 +1,6 @@
 {"label":"Clover Hill Critics",
 	"description":"Book Discussion List",
 	"list":[
-				{"label":"November | The Sound of Gravel",
-				"isbns":["9781250077691"]
-				},
 				{"label":"December | The Lager Queen of Minnesota",
 				"isbns":["9780399563058"]
 				},
